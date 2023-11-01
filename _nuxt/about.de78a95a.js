@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper.c27b6911.js";import{c as o,o as c}from"./entry.cea0bdbc.js";const r={};function t(n,a){return c(),o("div",null,"关于我们")}const f=e(r,[["render",t]]);export{f as default};
